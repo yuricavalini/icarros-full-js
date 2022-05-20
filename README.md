@@ -8,7 +8,7 @@
 
 ### Para rodar localmente
 
-`npm start`
+`npm run dev`
 
 ### Para buildar usando o Webpack
 

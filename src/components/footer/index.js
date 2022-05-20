@@ -1,7 +1,6 @@
 let Footer = `
-		<div>
-			<p>Rodapé</p>
-		</div>
-		
-	`;
+      <footer>
+        <p>Rodapé</p>
+      </footer>
+    `;
 export default Footer;
