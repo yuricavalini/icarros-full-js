@@ -9,13 +9,13 @@ let Contato = {
   render: async () => {
     let view = `
       ${Nav}
-      <div>
+      <div class="contact-container">
         <h1>Contato</h1>
         <div id="loader"></div>
         <form id="contact">
           <input type="text" id="name" placeholder="Seu nome">
           <input type="text" id="phone" placeholder="Seu telefone">
-          <input type="submit" value="Enviar">
+          <input class="jello-horizontal" type="submit" value="Enviar">
         </form>
       </div>
       ${Footer}
